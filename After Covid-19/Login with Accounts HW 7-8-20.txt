@@ -1,0 +1,13 @@
+
+
+Login with classes
+Account Class
+	Username
+	Password
+	GetUserName function.
+	CheckLogin Function.  Take in a username and password, returns true if it matches.
+
+Program:
+	List of Accounts
+	Ask the user to login
+	keep going until they login succesfully

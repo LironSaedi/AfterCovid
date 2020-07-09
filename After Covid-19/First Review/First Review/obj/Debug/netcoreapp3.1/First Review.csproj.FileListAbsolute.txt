@@ -1,0 +1,13 @@
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.exe
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.deps.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\bin\Debug\netcoreapp3.1\First Review.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\After Covid-19\First Review\First Review\obj\Debug\netcoreapp3.1\First Review.genruntimeconfig.cache
