@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\First Review\\First Review\\First Review.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\First Review\\First Review\\First Review.csproj": {}
   },
   "projects": {
-    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\First Review\\First Review\\First Review.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\First Review\\First Review\\First Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\First Review\\First Review\\First Review.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\First Review\\First Review\\First Review.csproj",
         "projectName": "First Review",
-        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\First Review\\First Review\\First Review.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\First Review\\First Review\\First Review.csproj",
         "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\First Review\\First Review\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\First Review\\First Review\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

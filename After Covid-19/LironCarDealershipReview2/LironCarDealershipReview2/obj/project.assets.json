@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\LironCarDealershipReview2.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\LironCarDealershipReview2.csproj",
       "projectName": "LironCarDealershipReview2",
-      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\LironCarDealershipReview2.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\LironCarDealershipReview2.csproj",
       "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\obj\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\AfterCovid\\After Covid-19\\LironCarDealershipReview2\\LironCarDealershipReview2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
